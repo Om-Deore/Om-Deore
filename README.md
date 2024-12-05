@@ -25,5 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Om-Deore&show_icons=true&locale=en&layout=compact" alt="Om-Deore" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Om-Deore&show_icons=true&locale=en" alt="Om-Deore" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Om-Deore&" alt="Om-Deore" /></p>
